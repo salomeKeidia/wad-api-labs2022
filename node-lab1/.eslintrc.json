@@ -17,7 +17,8 @@
     "plugins": [
         "react"
     ],
-    "rules": {
+   "rules": {
         "semi": 1,
         "no-console": "off"
     }
+}
